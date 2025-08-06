@@ -3,70 +3,71 @@
   <img src="https://media-hosting.imagekit.io/a195cf92b45c409e/github-header-image.png?Expires=1838647430&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hSE5-OLVYw3gmg8tpqIKxoZPxnyCVxjWa5LYkZwv4Cr~vnOf8YeEnTvud0Wp0HUEMPREBLnEQpfBQbLqSA0oohHJwdP8HscfTbnrJl-P1VsWRa-8XPv31thsY4Mx9~JkP3kD3tnottFRFGdFEC9y8hiSuHKC-U4U2C7REpnoO1cC1VTWiCLBYAdKhWddkld4rQKa5WQt~TmwPXoPcaKVhJZFUnNsquyHD2ptI9QLlaHHH~oTDmIbfQ~wXpsWmixnDfPB1MNrXMEnzPPInAhpkAhs2eybUiWX~6ko-mTet-gkN2RByU5RAYB8pWsNK-YG6aDGq1TfwgbvdMjd1xfQHw__" alt="MasterHead" />
 </p>
 
-<br/>
-
-<!-- 🙋 Introduction -->
 <h1 align="center">Hi 👋, I'm Keshav Goyal</h1>
-<h3 align="center">Creating robust web applications 🌐 and exploring the power of the cloud ☁️</h3>
+<h3 align="center">🚀 Full-Stack Developer | ☁️ Cloud Enthusiast | 🧠 AI & LLM Explorer</h3>
 
-<br/>
+---
 
-<!-- 🧑‍💻 Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-programmer-guy-coding-790a0bs8e8thpisg.gif" />
+# 💫 About Me
+👀 Passionate about **Full‑Stack Web Development**, **Cloud Computing**, and **AI‑Powered Applications**  
+🌱 Currently exploring **LLM applications**, **LangChain**, and **FastAPI** for intelligent document processing  
+💞 Looking to collaborate on **AI, cloud, and MERN stack projects**  
+📫 Reach me at: **[keshavgoyal1404@gmail.com](mailto:keshavgoyal1404@gmail.com)**  
 
-<!-- 📚 Bio -->
-- 💬 Ask me about **🌐 HTML/CSS · ⚛️ React · 🎨 Tailwind CSS · 🟨 JavaScript 🟩 Node.js · 🚀 Express · 🔥 Firebase · ☁️ Cloud Computing**
+---
 
-<br/>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshavgoyal14)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/keshavgoyal14)  
 
-- 📫 How to reach me: **Keshavgoyal1404@gmail.com**
+---
 
-<br/>
+# 💻 Tech Stack
 
-- ⚡ Fun fact: **Still waiting for my code to thank me. 🙃**
+### **Programming & Scripting**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<br/><br/>
+### **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<!-- 🤝 Connect -->
-<h3 align="left">Connect with me:</h3>
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<p align="left">
-  <a href="https://linkedin.com/in/keshavgoyal14" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+### **Cloud & Tools**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+---
 
-<!-- 🛠️ Tools -->
-<h3 align="left">Languages and Tools:</h3>
+# 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshavgoyal14&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=keshavgoyal14&theme=tokyonight" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavgoyal14&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
-</p>
+---
 
-<br/>
+<h1 align="center">💌 Let's Connect!</h1>
+<div align="center">
+  <a href="https://linkedin.com/in/keshavgoyal14"><img width="50px" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429597/Self/linkedin_jo0dot.png" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:keshavgoyal1404@gmail.com"><img width="50px" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429608/Self/gmail_fm9lpo.png" alt="Gmail"/></a>
+  &nbsp;
+  <a href="https://github.com/keshavgoyal14"><img width="50px" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429602/Self/github_j88moo.png" alt="GitHub"/></a>
+</div>
 
-<!-- 📊 GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavgoyal14&show_icons=true&locale=en&layout=compact" alt="keshavgoyal14" />
-</p>
+---
