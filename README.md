@@ -131,24 +131,22 @@ Technologies:
 
 ---
 
-# 💌 Let's Connect!
+# 💌 Let's Connect
 
-<div align="center">
-
+<p align="center">
 <a href="https://linkedin.com/in/keshavgoyal14">
-<img width="50px" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429597/Self/linkedin_jo0dot.png"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="mailto:keshavgoyal1404@gmail.com">
-<img width="50px" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429608/Self/gmail_fm9lpo.png"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://github.com/keshavgoyal14">
-<img width="50px" src="https://res.cloudinary.com/ddglxo0l3/image/upload/v1631429602/Self/github_j88moo.png"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://leetcode.com/u/Keshav_goyal14/">
+<img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+</p>
