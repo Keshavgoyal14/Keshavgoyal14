@@ -44,10 +44,28 @@
 
 ---
 
-# 🧠 AI / ML Skills
+# 💻 Skills & Technologies
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
+### AI / Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-white?style=for-the-badge&logo=opencv)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn)
+
+Technologies:
 
 - Deep Learning  
-- Convolutional Neural Networks (CNN)  
+- CNNs  
 - YOLOv8 Object Detection  
 - Computer Vision  
 - OCR Systems  
@@ -56,25 +74,6 @@
 - LangGraph  
 - HuggingFace Models  
 - Vector Databases (Pinecone)
-
-Libraries & Tools
-
-- PyTorch  
-- OpenCV  
-- NumPy  
-- Scikit-Learn  
-- EasyOCR  
-
----
-
-# 💻 Technical Skills
-
-### Programming
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
@@ -109,6 +108,8 @@ Libraries & Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
