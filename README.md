@@ -1,14 +1,15 @@
 <!-- 🖼️ Header -->
-
 <p align="center">
-  <img src="https://media-hosting.imagekit.io/a195cf92b45c409e/github-header-image.png" alt="Keshav Goyal GitHub Header" />
+  <img src="https://media-hosting.imagekit.io/a195cf92b45c409e/github-header-image.png" alt="Keshav Goyal GitHub Header" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Keshav Goyal</h1>
+<h1 align="center">Hi there, I'm Keshav Goyal 👋</h1>
 
-<h3 align="center">
-  AI/ML Engineer • Data Science • Data Engineering • Full-Stack Development
-</h3>
+<h3 align="center">AI/ML Engineer • Data Scientist • Data Engineer • Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Building+AI-powered+systems+that+ship;Turning+data+into+products;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+Data+Engineering" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/keshavgoyal14">
@@ -20,79 +21,58 @@
   <a href="https://leetcode.com/u/Keshav_goyal14/">
     <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=keshavgoyal14&style=for-the-badge&color=00A8E8" alt="Profile views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech — Electronics & Communication Engineering** at **VIT Vellore**
+- 🎓 B.Tech in **Electronics & Communication Engineering**, VIT Vellore
+- 🤖 I build **AI-powered systems and data-driven applications** — from ML models and LLM pipelines to production-ready APIs and backends
+- 💡 I like projects where **ML meets real-world systems**: taking an idea from data and experimentation to something people can actually use
+- 🌱 Currently deepening my skills in **RAG systems, LangGraph agents, and large-scale data engineering with PySpark**
 
-🤖 I enjoy building **AI-powered systems and data-driven applications**, from machine learning models to production-ready APIs and intelligent backends.
-
-🚀 My primary areas of interest are:
-
-* **Artificial Intelligence & Machine Learning**
-* **Generative AI & LLM Applications**
-* **Data Science & Analytics**
-* **Data Engineering & Big Data**
-* **Computer Vision**
-* **Backend & Full-Stack Development**
-* **Cloud & Distributed Systems**
-
-💡 I particularly enjoy working on projects where **ML meets real-world systems** — taking an idea from data and experimentation to a usable application.
+**Focus areas:**
+`AI & Machine Learning` `Generative AI / LLM Apps` `Data Science & Analytics` `Data Engineering` `Computer Vision` `Full-Stack & Cloud Systems`
 
 ---
 
 ## 🔭 Currently Exploring
 
-* 🧠 **Deep Learning & Computer Vision**
-* 🤖 **LLM Applications**
-* 🔗 **LangChain & LangGraph**
-* 📚 **Retrieval-Augmented Generation (RAG)**
-* ⚡ **FastAPI & AI Backends**
-* 🔥 **PySpark & Data Engineering**
-* ☁️ **Cloud-based Data & ML Systems**
+| | |
+|---|---|
+| 🧠 Deep Learning & Computer Vision | 🔗 LangChain & LangGraph |
+| 📚 Retrieval-Augmented Generation (RAG) | ⚡ FastAPI & AI Backends |
+| 🔥 PySpark & Data Engineering | ☁️ Cloud-based Data & ML Systems |
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 AI-Based Scrap Sorting Robotic Arm
+> Replace the `#` links below with your actual repo URLs.
 
-An AI-powered computer vision system designed to identify and classify scrap materials and automate sorting using a robotic arm.
+### 🤖 [AI-Based Scrap Sorting Robotic Arm](#)
+Computer vision system that identifies and classifies scrap materials, driving a robotic arm to automate sorting.
+`Computer Vision` `Object Detection` `Robotics`
 
-**Focus:** Computer Vision • Object Detection • Robotics • AI
+### 🩺 [Skin Lesion Classification](#)
+Deep learning pipeline using transfer learning on modern vision architectures to classify dermatological images.
+`Deep Learning` `PyTorch` `Transfer Learning`
 
----
+### 🧠 [Retrieval-Augmented Generation Systems](#)
+LLM applications that retrieve relevant context from external knowledge sources before generating responses.
+`RAG` `LangChain` `LangGraph` `Vector Databases`
 
-### 🩺 Skin Lesion Classification
-
-Deep-learning based skin lesion classification using modern vision architectures to classify dermatological images.
-
-**Focus:** Deep Learning • Computer Vision • PyTorch • Transfer Learning
-
----
-
-### 🧠 Retrieval-Augmented Generation Systems
-
-Building LLM applications capable of retrieving relevant information from external knowledge sources before generating responses.
-
-**Focus:** RAG • LLMs • LangChain • LangGraph • Vector Databases
+### ⚡ [Data Engineering & Streaming Systems](#)
+Distributed data processing and streaming pipelines for transforming large-scale event data.
+`PySpark` `Apache Spark` `Streaming` `Cloud`
 
 ---
 
-### ⚡ Data Engineering & Streaming Systems
+## 🛠️ Tech Stack
 
-Working with distributed data processing and streaming pipelines for handling and transforming large-scale event data.
-
-**Focus:** PySpark • Apache Spark • Streaming • Cloud Data Engineering
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Programming
+**Languages**
 
 <p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -101,27 +81,19 @@ Working with distributed data processing and streaming pipelines for handling an
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-## 🤖 AI / Machine Learning
+**AI / Machine Learning**
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-**Machine Learning:**
-`Regression` `Classification` `Clustering` `Feature Engineering` `Model Evaluation` `Preprocessing`
+`Regression` `Classification` `Clustering` `Feature Engineering` `CNNs` `Transfer Learning` `Object Detection` `YOLOv8` `LLMs` `RAG` `LangChain` `LangGraph`
 
-**Deep Learning:**
-`CNNs` `Transfer Learning` `Object Detection` `Computer Vision` `YOLOv8`
-
-**Generative AI:**
-`LLMs` `RAG` `LangChain` `LangGraph` `Hugging Face` `Vector Databases`
-
----
-
-## 📊 Data & Data Engineering
+**Data & Data Engineering**
 
 <p>
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
@@ -129,38 +101,20 @@ Working with distributed data processing and streaming pipelines for handling an
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-* SQL
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis
-* Statistical Analysis
-* ETL / ELT Pipelines
-* Distributed Data Processing
-* Data Streaming
-* Spark / PySpark
+`ETL / ELT` `Distributed Processing` `Data Streaming` `EDA` `Statistical Analysis`
 
----
-
-## 🌐 Development
-
-### Frontend
+**Web Development**
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### Backend
-
-<p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
----
-
-## 🗄️ Databases & Cloud
+**Databases & Cloud**
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -169,9 +123,7 @@ Working with distributed data processing and streaming pipelines for handling an
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
----
-
-## 🔧 Tools
+**Tools**
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -184,10 +136,11 @@ Working with distributed data processing and streaming pipelines for handling an
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavgoyal14&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=keshavgoyal14&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavgoyal14&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -195,12 +148,12 @@ Working with distributed data processing and streaming pipelines for handling an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavgoyal14&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=keshavgoyal14&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </p>
 
 ---
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:keshavgoyal1404@gmail.com">
@@ -214,6 +167,4 @@ Working with distributed data processing and streaming pipelines for handling an
   </a>
 </p>
 
-<p align="center">
-  <i>Always learning. Always building. 🚀</i>
-</p>
+<p align="center"><i>Always learning. Always building. 🚀</i></p>
